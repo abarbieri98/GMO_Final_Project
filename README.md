@@ -16,7 +16,7 @@ The contents of the repo are the following:
 
 To properly work, the source code needs Supermassive, Freq Echo and Space Modulator VSTs, distributed by [Valhalla DSP](https://valhalladsp.com). As for libraries, the needed ones are the following:
 - numpy
-- pedalboard
+- [pedalboard](https://github.com/spotify/pedalboard)
 - scipy
 - librosa
 
